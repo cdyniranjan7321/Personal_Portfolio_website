@@ -58,7 +58,7 @@ export const experiencesData = [
     icon: React.createElement(FaReact),
     date: "2024 - present",
   },
-  
+
 ] as const;
 
 export const projectsData = [
