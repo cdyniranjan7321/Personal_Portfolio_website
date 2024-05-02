@@ -33,6 +33,7 @@ export const links = [
   },
 ] as const;
 
+
 export const experiencesData = [
   {
     title: "Graduated bachelor degree",
